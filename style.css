@@ -35,11 +35,11 @@ figcaption {
 
 #details {
   display: block;
+  background-color: yellow
 }
 
 div {
   float: left;
   text-align: center;
-  background-color: yellow;
   width: 200px;
 }
