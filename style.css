@@ -33,7 +33,7 @@ p#featured-property {
   text-align: center;
 }
 
-div#details {
+#details {
   display: block;
   float: left;
 }
