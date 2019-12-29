@@ -33,13 +33,11 @@ figcaption {
   text-align: center;
 }
 
-#details {
+#details div {
   display: block;
-  background-color: yellow
-}
-
-div {
+  background-color: yellow;
   float: left;
   text-align: center;
   width: 200px;
 }
+
