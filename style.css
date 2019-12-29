@@ -16,5 +16,8 @@ img {
 
 nav {
   text-align: center;
+}
+
+header a {
   background-color: yellow;
 }
