@@ -40,4 +40,7 @@ figcaption {
 div {
   float: left;
   padding: 10px;
+  text-align: center;
+  background-color: yellow
+  opacity: 
 }
