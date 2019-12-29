@@ -23,3 +23,6 @@ header a {
   background-color: yellow;
 }
 
+figcaption {
+  font-size: 2px;
+}
