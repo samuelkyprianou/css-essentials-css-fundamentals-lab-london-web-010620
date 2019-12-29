@@ -33,6 +33,6 @@ p#featured-property {
   text-align: center;
 }
 
-#details {
+div {
   display: block;
 }
